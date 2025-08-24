@@ -97,8 +97,6 @@ The training process was performed in Google Colab using a ResNet18 architecture
 -   Implementation of unit tests for increased code reliability.
 -   Incorporate user feedback to improve model accuracy and usability.
 
-## Contributions
-[Did anyone else contribute? Put names here.]
 
 ## Disclaimer
 
@@ -106,12 +104,9 @@ This AI tool is designed for educational and research purposes only. It should n
 
 ## License
 
-[Choose a license. Options include MIT, Apache 2.0, or GPL 3.0]
 
 * **MIT License:** A permissive license that lets others use, modify, and distribute your code, even for commercial purposes, as long as they include the original copyright and license notice in any copy of your code/software.
-* **Apache 2.0 License:** Similar to MIT but also grants patent rights.
-* **GPL 3.0 License:** A strong copyleft license that requires derivative works to be licensed under GPL as well.
-* **If you choose to keep the code to yourself, you can just note 'All rights reserved.**
+
 
 ## Credits
 
